@@ -1,6 +1,6 @@
 # dataAnalysis
 
-### 소니 크롤링 코드
+# 소니 크롤링 코드
 
 
 import urllib.request as req
